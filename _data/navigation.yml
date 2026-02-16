@@ -1,10 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research Hub"
-    url: /research/
-  - title: "BEML B28"
-    url: /research/beml-b28/
+  - title: "BEML B28 Research Hub"
+    url: https://sandeep76543.github.io/BEML-B28-HSR-RESEARCH/   # full external URL
   - title: "About"
     url: /about/
   - title: "YouTube"
