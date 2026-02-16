@@ -1,32 +1,58 @@
 title: Sandeep | HSR Researcher & Wikipedia Editor
+email: singhaniasandeep01@gmail.com  # optional
 description: >-
-  Documenting India's High-Speed Rail Future — BEML B28, technical insights, Wikipedia contributions on Indian Railways.
+  Documenting India's indigenous high-speed rail — BEML Train 28 (B28), technical analysis, tenders, Wikipedia edits (SANDEEP76543), Vanguard Tracks breakdowns.
 
-url: "https://sandeep76543.github.io"   # Change if using custom domain later
+url: "https://sandeep76543.github.io"          # Change if using custom domain later
+baseurl: ""                                    # Important: empty for user repo
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+minimal_mistakes_skin: "dark"                  # Base dark — we'll accent it
+
+locale: "en-IN"
+search: true
+search_full_content: true
 
 author:
   name: "Sandeep"
-  avatar: "/assets/images/profile.jpg"   # Upload your profile.jpg here
-  bio: "Rail researcher focused on indigenous high-speed trains like BEML B28 | Wikipedia editor (SANDEEP76543) | Vanguard Tracks creator"
-  location: " India"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Dedicated to India's high-speed rail future | BEML B28 researcher | Wikipedia editor (SANDEEP76543) | Vanguard Tracks YouTube creator | AI + Rail explorer (India AI Impact Summit 2026)"
+  location: "Patna, Bihar, India"
   links:
     - label: "Wikipedia"
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/User:SANDEEP76543"
-    - label: "YouTube - Vanguard Tracks"
+    - label: "YouTube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/@VanguardTracks"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/SANDEEP76543"
 
-minimal_mistakes_skin: "dark"   # Sleek dark mode for tech/rail vibe
-search: true
-
-remote_theme: "mmistakes/minimal-mistakes"
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
