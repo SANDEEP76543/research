@@ -1,8 +1,25 @@
 ---
+layout: single
+title: "About Sandeep"
 permalink: /about/
-title: "About"
+author_profile: true
+header:
+  overlay_color: "#0a192f"
+  overlay_filter: "0.6"
+  overlay_image: /assets/images/train-hero-wide.jpg
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Sandeep** (Wikipedia: SANDEEP76543) — Rail enthusiast and researcher based in Patna, Bihar.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Focus areas:
+- **BEML Train 28 (B28)**: Indigenous high-speed trainset development
+- Vande Bharat & next-gen semi-high-speed evolution
+- Major corridors: Mumbai-Ahmedabad, Delhi-Varanasi-Howrah-Siliguri
+- AI applications in rail (attending **India AI Impact Summit 2026**)
+
+**Connect & Follow**  
+- Wikipedia edits → [User:SANDEEP76543](https://en.wikipedia.org/wiki/User:SANDEEP76543)  
+- YouTube tender & tech breakdowns → [Vanguard Tracks](https://www.youtube.com/@VanguardTracks)  
+- GitHub drafts/notes → [SANDEEP76543](https://github.com/SANDEEP76543)
+
+Open to collaborations on rail documentation, data analysis, or content creation!
