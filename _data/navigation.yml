@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /
+  - title: "Research Hub"
+    url: /research/
+  - title: "BEML B28"
+    url: /research/beml-b28/
   - title: "About"
     url: /about/
+  - title: "YouTube"
+    url: https://www.youtube.com/@VanguardTracks
